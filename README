@@ -1,6 +1,6 @@
 These are the python scripts driving the Roomba Recon playlist generator.
 
-System is live here: http://doc.gold.ac.uk/~map01bf/playlist/recon
+System is live here: http://doc.gold.ac.uk/~map01bf/recon/playlist
 
 If you're going to try this on another install you'll need a soundcloud api key and an echonest API key
 
